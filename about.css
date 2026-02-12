@@ -708,7 +708,6 @@ blockquote {
 .values-section {
     position: relative;
     padding: 100px 20px;
-    background-image: url(img/logo1.png);
     font-family: 'Poppins', sans-serif;
     overflow: hidden;
 }
@@ -852,4 +851,5 @@ blockquote {
         font-size: 24px;
     }
 }
+
 
